@@ -1,0 +1,19 @@
+{
+    "name": "tools.edinc/edinc-export",
+    "description": "edinc-export",
+    "require": {
+        "php": "~5"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "edinc maintainers",
+            "email": "edinc.maintainers@tools.wmflabs.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "edinc\\export\\": ""
+        }
+    }
+}
